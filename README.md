@@ -1,4 +1,4 @@
-# The Mother of AI Project
+# A Production-grade AI Project
 ## Phase 1 RAG Systems: arXiv Paper Curator
 
 <p align="center">
